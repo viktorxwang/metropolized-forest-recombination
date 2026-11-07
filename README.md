@@ -1,0 +1,1 @@
+This is my implementation of metropolized forest recombination, an algorithm used to quantify gerrymandering. Gerrymandering is defined as the manipulation of an electoral constituency's boundaries so as to favour one party or class.
